@@ -1,0 +1,87 @@
+
+.st-key-green button {
+    background-color: green;
+}
+
+/* Animated button with pulse effect */
+.st-key-pulse button {
+    background-color: #4CAF50;
+    border-radius: 10px;
+    padding: 20px 60px;
+    animation: pulse 2s infinite;
+}
+
+.st-key-pulse button p {
+    font-size: 24px;
+    font-family: 'Comic Sans MS', sans-serif;
+}
+
+/* Hover effect for the button */
+.st-key-pulse button:hover {
+    background-color: #45a049; /* Darker green */
+    border: none;
+}
+
+.st-key-pulse button:hover p {
+    color: #FFD700; /* Gold color */
+}
+
+/* Override the focus states to prevent default red border */
+.st-key-pulse button:focus {
+    background-color: #45a049; /* Keep the same as hover */
+    border: none;
+}
+
+/* Apply the same text color during focus states */
+.st-key-pulse button:focus p {
+    color: #FFD700;
+}
+
+
+@keyframes pulse {
+    0% {
+        box-shadow: 0 0 0 0 rgba(76, 175, 80, 0.7);
+    }
+    70% {
+        box-shadow: 0 0 0 20px rgba(76, 175, 80, 0);
+    }
+    100% {
+        box-shadow: 0 0 0 0 rgba(76, 175, 80, 0);
+    }
+}
+
+/* Text input with custom font and color */
+.st-key-styledinput input {
+    border: 5px solid #3cff1e;
+    border-radius: 8px;
+}
+
+.st-key-styledinput input:focus {
+    border: none;
+}
+
+
+/* Text area with custom font */
+.st-key-styledtextarea textarea {
+    background-color: #e6e6fa;
+    border: 4px solid #9370DB;
+    border-radius: 8px;
+    font-family: 'Lucida Handwriting', cursive;
+    color: #4B0082;
+}
+
+
+/* Radio buttons with custom styles */
+.st-key-styledradio .stRadio p {
+    color: #8b2e86;
+    font-family: 'Comic Sans MS', sans-serif;
+    font-size: 24px;
+}
+
+
+/* Styled markdown */
+.custom-markdown {
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    color: #DA70D6;
+    font-size: 34px;
+}
