@@ -15,8 +15,8 @@ pip install streamlit --upgrade
 Happy styling! 🎨
 
 
-## Video Tutorial (Coming soon!)
-[![YouTube Video](https://img.youtube.com/vi/XXX/0.jpg)](https://youtu.be/XXX)
+## Video Tutorial
+[![YouTube Video](https://img.youtube.com/vi/jbJpAdGlKVY/0.jpg)](https://youtu.be/jbJpAdGlKVY)
 
 
 ## 🤝 Connect with Me
