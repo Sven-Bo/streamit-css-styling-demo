@@ -14,16 +14,11 @@ pip install streamlit --upgrade
 
 Happy styling! 🎨
 
-
 ## Video Tutorial
 [![YouTube Video](https://img.youtube.com/vi/jbJpAdGlKVY/0.jpg)](https://youtu.be/jbJpAdGlKVY)
-
 
 ## Connect with Me
 - **YouTube:** [CodingIsFun](https://youtube.com/c/CodingIsFun)
 - **Website:** [PythonAndVBA](https://pythonandvba.com)
 - **LinkedIn:** [Sven Bosau](https://www.linkedin.com/in/sven-bosau/)
 - **Contact:** [Get in Touch](https://pythonandvba.com/contact)
-## Feedback & Collaboration
-For feedback, suggestions, or potential collaboration opportunities, reach out at contact@pythonandvba.com.
-![Logo](https://www.pythonandvba.com/banner-img)
